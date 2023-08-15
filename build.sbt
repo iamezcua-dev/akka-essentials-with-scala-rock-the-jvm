@@ -1,4 +1,4 @@
-name := "udemy-akka-essentials"
+name := "akka-essentials-with-scala-rock-the-jvm"
 version := "0.0.1"
 scalaVersion := "2.12.7"
 
